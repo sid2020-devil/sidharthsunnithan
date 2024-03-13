@@ -1,3 +1,3 @@
 # My portfolio website
 
-Link - http://www.sidharthsunnithan.live/
+Link - https://sid2020-devil.github.io/sidharthsunnithan/
